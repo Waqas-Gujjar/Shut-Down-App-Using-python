@@ -2,7 +2,7 @@
 
 
 
-```markdown
+
 # Computer Shut Down App
 
 This is a simple Tkinter-based GUI application that allows users to restart, log out, or shut down their computer with the click of a button.
@@ -72,7 +72,7 @@ sd_button = Button(st, text="Shut Down", font=("Time New Roman", "20", "bold"), 
 sd_button.place(x=150, y=370, height=50, width=200)
 
 st.mainloop()
-```
+
 
 ## Notes
 
